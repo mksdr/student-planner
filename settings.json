@@ -1,0 +1,162 @@
+{
+  "theme": "dark",
+  "subject_colors": {
+    "국어": "#FF6B6B",
+    "수학 II": "#FF922B",
+    "영어": "#51CF66",
+    "정보": "#CC5DE8",
+    "물리 I": "#339AF0"
+  },
+  "timetable": {
+    "mon": [
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "tue": [
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "wed": [
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "thu": [
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      }
+    ],
+    "fri": [
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      },
+      {
+        "subject": "",
+        "teacher": ""
+      }
+    ]
+  }
+}
